@@ -55,4 +55,4 @@ Phase 1 establishes the core enterprise identity infrastructure:
 - Domain join of a Windows 11 Pro workstation
 - Placement of endpoints into appropriate OUs
 
-Screenshots for this phase are in: 
+Screenshots for this phase are in: AD-Phase-1
